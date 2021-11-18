@@ -1,0 +1,44 @@
+body {
+    background-color:cornflowerblue;
+}
+
+header {
+    background-color:grey;
+    text-align: center;
+    border: solid black 1px;
+}
+
+h1 {
+    color: rgb(58, 43, 230);
+    border: solid black 5px;
+    /* text-align: center; */
+    background-color: rgb(90, 159, 205);
+}
+
+ul {
+    padding: 0px 40px 0px 40px;
+}
+
+li {
+    border: solid red 3px;
+    color:rgb(225, 222, 65);
+    display: inline-block;
+    padding: 5px;
+    margin: 0px 30px;
+}
+
+section {
+    background-color: springgreen;
+    text-align: center;
+    border: solid black 1px;
+}
+
+img {
+    width: 90%;
+    height: auto;
+    border: solid black 3px;
+}
+
+footer {
+    text-align: center;
+}
