@@ -5,13 +5,17 @@
 // }
 // console.log(useranswer);
 
-function secretMessage(){
-    let userAnswer = prompt('Do you like cool cars? (yes or no)')
+//End of Javascript Edit1
 
-    if (userAnswer.toUpperCase() == "YES"){
-        document.write('Then take a look at these sweet rides below')
-    }
-    console.log(userAnswer)
-}
+// function secretMessage(){
+//     let userAnswer = prompt('Do you like cool cars? (yes or no)')
+
+//     if (userAnswer.toUpperCase() == "YES"){
+//         document.write('Then take a look at these sweet rides below')
+//     }
+//     console.log(userAnswer)
+// }
+
+//End of Javascipt Edit 2
 
 
